@@ -84,7 +84,7 @@ entries:
       - https://github.com/nabsul/kcert/releases/download/v1.1.0/kcert-1.0.0.tgz
       version: 1.0.0
   kcert-ingress:
-    - created: "2022-12-27:00:00Z"
+    - created: "2022-12-27T00:00:00Z"
       description: "Create a KCert Certificate using a Ingress"
       home: https://github.com/nabsul/kcert
       name: kcert
