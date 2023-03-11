@@ -38,6 +38,15 @@ entries:
       - https://github.com/nabsul/k8s-ecr-login-renew/releases/download/helm-v0.0.1/k8s-ecr-login-renew-0.0.1.tgz
       version: 0.0.1
   kcert:
+    - created: "2023-03-11T00:00:00Z"
+      description: "KCert: A Simple Kubernetes Certification Manager"
+      home: https://github.com/nabsul/kcert
+      name: kcert
+      sources:
+      - https://github.com/nabsul/kcert
+      urls:
+      - https://github.com/nabsul/kcert/releases/download/v1.2.0/kcert-1.0.6.tgz
+      version: 1.0.6
     - created: "2022-12-30T00:00:00Z"
       description: "KCert: A Simple Kubernetes Certification Manager"
       home: https://github.com/nabsul/kcert
