@@ -175,3 +175,14 @@ entries:
         urls:
         - https://github.com/nabsul/kcert/releases/download/v1.1.0/kcert-configmap-1.0.0.tgz
         version: 1.0.0
+  adawat-ingress:
+    - created: "2023-09-23T00:00:00Z"
+      description: "Deploy Adawat Ingress"
+      home: https://github.com/adawat-dev/Tools
+      name: adawat-ingress
+      sources:
+      - https://github.com/adawat-dev/Tools
+      urls:
+      - https://github.com/nabsul/helm/releases/download/v0.0.1/adawat-ingress-0.0.1.tgz
+      version: 0.0.1
+  
